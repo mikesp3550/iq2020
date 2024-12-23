@@ -1,4 +1,4 @@
-
+Source: https://github.com/Ylianst/ESP-IQ2020?tab=readme-ov-file
 Once you get the device, connect it to your computer using a USB-C table, create a new ESP home device, call it "Hot Tub" or anything you like, select `ESP32`. Once created, edit the configuration file to look like the one below. You should keep your own API encryption key and OTA password, but everything else can be copied from this example.
 
 ```
